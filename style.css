@@ -1,0 +1,45 @@
+html {
+    background-color: palegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.Section-Style {
+    text-align: center;
+    padding: 20px;
+}
+
+#Neko {
+    color: white;
+    background-color: lightblue;
+    padding-top: 150px;
+}
+
+#Audrey {
+    color: white;
+    background-color: pink;
+}
+.nav {
+    position: fixed;
+    background-color: rgb(217, 152, 217);
+    width: 100%;
+    text-align: center;
+}
+
+.nav ul li {
+    display: inline-block;
+    padding: 20px;
+    border: white dashed 5px ;
+}
+.nav ul {
+    padding: 0;
+}
+img {
+    height: 300px;
+    width: auto;
+}
+
+
